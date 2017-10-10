@@ -12,15 +12,15 @@ Developed a script in MATLAB to perform numerical integration of any given signa
 ## Functions implemented:
 
 -	f(t) = (heaviside(t) - heaviside(t-2))^2
-	lower_limit = -2
-	upper_limit = 4
+	-	lower_limit = -2
+	-	upper_limit = 4
 
 -	f(t) = (heaviside(t)- 2.heaviside(t-1) + heaviside(t-2))^2
-	lower_limit = -2
-	upper_limit = 4
+	-	lower_limit = -2
+	-	upper_limit = 4
 
 -	f(t) = (2.heaviside(t) - 2.heaviside(t-1))^2
-	lower_limit = -2
-	upper_limit = 4
+	-	lower_limit = -2
+	-	upper_limit = 4
 
 
